@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: 8d8927ba5dd754bb1976a82324520943
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 11L
+    100002: 11R
+    100004: Ball
+    100006: couryard
+    100008: couryard001
+    100010: couryardouside
+    100012: line
+    100014: middle
+    100016: netgoal
+    100018: //RootNode
+    100020: Stands_01
+    100022: Stands_02
+    100024: Stands_026
+    100026: Stands_03
+    100028: Stands_04
+    100030: Stands_05
+    100032: Stands_06
+    100034: Stands_07
+    100036: Stands_08
+    100038: Stands_09
+    100040: Stands_10
+    100042: Stands_11
+    100044: Stands_12
+    100046: Stands_13
+    100048: Stands_14
+    100050: Stands_15_
+    100052: Stands_15_ 1
+    100054: Stands_15_ 2
+    100056: Stands_15_ 3
+    100058: Stands_15_ 4
+    100060: Stands_15_ 5
+    100062: Stands_15_ 6
+    100064: Stands_15_ 7
+    100066: Stands_16
+    100068: Stands_17
+    100070: Stands_18
+    100072: Stands_19
+    100074: Stands_20
+    100076: Stands_21
+    100078: Stands_22
+    100080: Stands_23
+    100082: Stands_24
+    100084: Stands_25
+    400000: 11L
+    400002: 11R
+    400004: Ball
+    400006: couryard
+    400008: couryard001
+    400010: couryardouside
+    400012: line
+    400014: middle
+    400016: netgoal
+    400018: //RootNode
+    400020: Stands_01
+    400022: Stands_02
+    400024: Stands_026
+    400026: Stands_03
+    400028: Stands_04
+    400030: Stands_05
+    400032: Stands_06
+    400034: Stands_07
+    400036: Stands_08
+    400038: Stands_09
+    400040: Stands_10
+    400042: Stands_11
+    400044: Stands_12
+    400046: Stands_13
+    400048: Stands_14
+    400050: Stands_15_
+    400052: Stands_15_ 1
+    400054: Stands_15_ 2
+    400056: Stands_15_ 3
+    400058: Stands_15_ 4
+    400060: Stands_15_ 5
+    400062: Stands_15_ 6
+    400064: Stands_15_ 7
+    400066: Stands_16
+    400068: Stands_17
+    400070: Stands_18
+    400072: Stands_19
+    400074: Stands_20
+    400076: Stands_21
+    400078: Stands_22
+    400080: Stands_23
+    400082: Stands_24
+    400084: Stands_25
+    2100000: 14 - Default
+    2100002: stands
+    2100004: Electrictable
+    2100006: fence2
+    2100008: roffinginside
+    2100010: 08 - Default
+    2100012: fooBall
+    2100014: Line
+    2100016: inside
+    2100018: 'Material #48'
+    2100020: couryard
+    2100022: Electrictable02
+    2300000: 11L
+    2300002: 11R
+    2300004: Ball
+    2300006: couryard
+    2300008: couryard001
+    2300010: couryardouside
+    2300012: line
+    2300014: middle
+    2300016: netgoal
+    2300018: Stands_01
+    2300020: Stands_02
+    2300022: Stands_026
+    2300024: Stands_03
+    2300026: Stands_04
+    2300028: Stands_05
+    2300030: Stands_06
+    2300032: Stands_07
+    2300034: Stands_08
+    2300036: Stands_09
+    2300038: Stands_10
+    2300040: Stands_11
+    2300042: Stands_12
+    2300044: Stands_13
+    2300046: Stands_14
+    2300048: Stands_15_
+    2300050: Stands_15_ 1
+    2300052: Stands_15_ 2
+    2300054: Stands_15_ 3
+    2300056: Stands_15_ 4
+    2300058: Stands_15_ 5
+    2300060: Stands_15_ 6
+    2300062: Stands_15_ 7
+    2300064: Stands_16
+    2300066: Stands_17
+    2300068: Stands_18
+    2300070: Stands_19
+    2300072: Stands_20
+    2300074: Stands_21
+    2300076: Stands_22
+    2300078: Stands_23
+    2300080: Stands_24
+    2300082: Stands_25
+    3300000: 11L
+    3300002: 11R
+    3300004: Ball
+    3300006: couryard
+    3300008: couryard001
+    3300010: couryardouside
+    3300012: line
+    3300014: middle
+    3300016: netgoal
+    3300018: Stands_01
+    3300020: Stands_02
+    3300022: Stands_026
+    3300024: Stands_03
+    3300026: Stands_04
+    3300028: Stands_05
+    3300030: Stands_06
+    3300032: Stands_07
+    3300034: Stands_08
+    3300036: Stands_09
+    3300038: Stands_10
+    3300040: Stands_11
+    3300042: Stands_12
+    3300044: Stands_13
+    3300046: Stands_14
+    3300048: Stands_15_
+    3300050: Stands_15_ 1
+    3300052: Stands_15_ 2
+    3300054: Stands_15_ 3
+    3300056: Stands_15_ 4
+    3300058: Stands_15_ 5
+    3300060: Stands_15_ 6
+    3300062: Stands_15_ 7
+    3300064: Stands_16
+    3300066: Stands_17
+    3300068: Stands_18
+    3300070: Stands_19
+    3300072: Stands_20
+    3300074: Stands_21
+    3300076: Stands_22
+    3300078: Stands_23
+    3300080: Stands_24
+    3300082: Stands_25
+    4300000: Stands_01
+    4300002: Stands_02
+    4300004: Stands_03
+    4300006: Stands_04
+    4300008: Stands_05
+    4300010: Stands_06
+    4300012: Stands_07
+    4300014: Stands_08
+    4300016: Stands_09
+    4300018: couryardouside
+    4300020: netgoal
+    4300022: Ball
+    4300024: middle
+    4300026: couryard
+    4300028: line
+    4300030: 11R
+    4300032: 11L
+    4300034: Stands_10
+    4300036: Stands_11
+    4300038: Stands_12
+    4300040: Stands_13
+    4300042: Stands_14
+    4300044: Stands_15_
+    4300046: Stands_16
+    4300048: couryard001
+    4300050: Stands_17
+    4300052: Stands_18
+    4300054: Stands_19
+    4300056: Stands_20
+    4300058: Stands_21
+    4300060: Stands_22
+    4300062: Stands_23
+    4300064: Stands_24
+    4300066: Stands_25
+    4300068: Stands_15_
+    4300070: Stands_15_
+    4300072: Stands_15_
+    4300074: Stands_15_
+    4300076: Stands_15_
+    4300078: Stands_15_
+    4300080: Stands_15_
+    4300082: Stands_026
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

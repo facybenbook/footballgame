@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{D9A41A21-EC8F-2632-FE3A-7C4369B4B015}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/GoalKeeper/GoalKeeperHorizontalFly.cs">
+    <Files>
+      <File FileName="Assets/Script/Scenes/AFFCup.cs" Line="89" Column="17" />
+      <File FileName="Assets/Script/Attacker/ShootCorner.cs" Line="92" Column="13" />
+      <File FileName="Assets/Script/Attacker/Shoot.cs" Line="54" Column="36" />
+      <File FileName="Assets/Script/Camera/CameraManager.cs" Line="299" Column="5" />
+      <File FileName="Assets/Script/Camera/SwitchCamera.cs" Line="22" Column="30" />
+      <File FileName="Assets/Script/Attacker/ShootAI.cs" Line="390" Column="11" />
+      <File FileName="Assets/Script/GoalKeeper/GoalKeeper.cs" Line="98" Column="69" />
+      <File FileName="Assets/Script/Scenes/AutoResetAfterShootFinish.cs" Line="38" Column="1" />
+      <File FileName="Assets/Script/GoalKeeper/GoalKeeperHorizontalFly.cs" Line="59" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

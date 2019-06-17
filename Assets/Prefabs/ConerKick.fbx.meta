@@ -1,0 +1,982 @@
+fileFormatVersion: 2
+guid: 8fc24707dd8cb43788bf3bd2c0dfc5e0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: soccerplayer2:Head
+    100004: soccerplayer2:HeadTop_End
+    100006: soccerplayer2:Hips
+    100008: soccerplayer2:LeftArm
+    100010: soccerplayer2:LeftFoot
+    100012: soccerplayer2:LeftFootToeBase_End
+    100014: soccerplayer2:LeftForeArm
+    100016: soccerplayer2:LeftHand
+    100018: soccerplayer2:LeftHandIndex1
+    100020: soccerplayer2:LeftHandIndex2
+    100022: soccerplayer2:LeftHandIndex3
+    100024: soccerplayer2:LeftHandIndex4
+    100026: soccerplayer2:LeftHandMiddle1
+    100028: soccerplayer2:LeftHandMiddle2
+    100030: soccerplayer2:LeftHandMiddle3
+    100032: soccerplayer2:LeftHandMiddle4
+    100034: soccerplayer2:LeftHandPinky1
+    100036: soccerplayer2:LeftHandPinky2
+    100038: soccerplayer2:LeftHandPinky3
+    100040: soccerplayer2:LeftHandPinky4
+    100042: soccerplayer2:LeftHandRing1
+    100044: soccerplayer2:LeftHandRing2
+    100046: soccerplayer2:LeftHandRing3
+    100048: soccerplayer2:LeftHandRing4
+    100050: soccerplayer2:LeftHandThumb1
+    100052: soccerplayer2:LeftHandThumb2
+    100054: soccerplayer2:LeftHandThumb3
+    100056: soccerplayer2:LeftHandThumb4
+    100058: soccerplayer2:LeftLeg
+    100060: soccerplayer2:LeftShoulder
+    100062: soccerplayer2:LeftToeBase
+    100064: soccerplayer2:LeftUpLeg
+    100066: soccerplayer2:Neck
+    100068: soccerplayer2:Neck1
+    100070: soccerplayer2:RightArm
+    100072: soccerplayer2:RightFoot
+    100074: soccerplayer2:RightFootToeBase_End
+    100076: soccerplayer2:RightForeArm
+    100078: soccerplayer2:RightHand
+    100080: soccerplayer2:RightHandIndex1
+    100082: soccerplayer2:RightHandIndex2
+    100084: soccerplayer2:RightHandIndex3
+    100086: soccerplayer2:RightHandIndex4
+    100088: soccerplayer2:RightHandMiddle1
+    100090: soccerplayer2:RightHandMiddle2
+    100092: soccerplayer2:RightHandMiddle3
+    100094: soccerplayer2:RightHandMiddle4
+    100096: soccerplayer2:RightHandPinky1
+    100098: soccerplayer2:RightHandPinky2
+    100100: soccerplayer2:RightHandPinky3
+    100102: soccerplayer2:RightHandPinky4
+    100104: soccerplayer2:RightHandRing1
+    100106: soccerplayer2:RightHandRing2
+    100108: soccerplayer2:RightHandRing3
+    100110: soccerplayer2:RightHandRing4
+    100112: soccerplayer2:RightHandThumb1
+    100114: soccerplayer2:RightHandThumb2
+    100116: soccerplayer2:RightHandThumb3
+    100118: soccerplayer2:RightHandThumb4
+    100120: soccerplayer2:RightLeg
+    100122: soccerplayer2:RightShoulder
+    100124: soccerplayer2:RightToeBase
+    100126: soccerplayer2:RightUpLeg
+    100128: soccerplayer2:Spine
+    100130: soccerplayer2:Spine1
+    100132: soccerplayer2:Spine2
+    400000: //RootNode
+    400002: soccerplayer2:Head
+    400004: soccerplayer2:HeadTop_End
+    400006: soccerplayer2:Hips
+    400008: soccerplayer2:LeftArm
+    400010: soccerplayer2:LeftFoot
+    400012: soccerplayer2:LeftFootToeBase_End
+    400014: soccerplayer2:LeftForeArm
+    400016: soccerplayer2:LeftHand
+    400018: soccerplayer2:LeftHandIndex1
+    400020: soccerplayer2:LeftHandIndex2
+    400022: soccerplayer2:LeftHandIndex3
+    400024: soccerplayer2:LeftHandIndex4
+    400026: soccerplayer2:LeftHandMiddle1
+    400028: soccerplayer2:LeftHandMiddle2
+    400030: soccerplayer2:LeftHandMiddle3
+    400032: soccerplayer2:LeftHandMiddle4
+    400034: soccerplayer2:LeftHandPinky1
+    400036: soccerplayer2:LeftHandPinky2
+    400038: soccerplayer2:LeftHandPinky3
+    400040: soccerplayer2:LeftHandPinky4
+    400042: soccerplayer2:LeftHandRing1
+    400044: soccerplayer2:LeftHandRing2
+    400046: soccerplayer2:LeftHandRing3
+    400048: soccerplayer2:LeftHandRing4
+    400050: soccerplayer2:LeftHandThumb1
+    400052: soccerplayer2:LeftHandThumb2
+    400054: soccerplayer2:LeftHandThumb3
+    400056: soccerplayer2:LeftHandThumb4
+    400058: soccerplayer2:LeftLeg
+    400060: soccerplayer2:LeftShoulder
+    400062: soccerplayer2:LeftToeBase
+    400064: soccerplayer2:LeftUpLeg
+    400066: soccerplayer2:Neck
+    400068: soccerplayer2:Neck1
+    400070: soccerplayer2:RightArm
+    400072: soccerplayer2:RightFoot
+    400074: soccerplayer2:RightFootToeBase_End
+    400076: soccerplayer2:RightForeArm
+    400078: soccerplayer2:RightHand
+    400080: soccerplayer2:RightHandIndex1
+    400082: soccerplayer2:RightHandIndex2
+    400084: soccerplayer2:RightHandIndex3
+    400086: soccerplayer2:RightHandIndex4
+    400088: soccerplayer2:RightHandMiddle1
+    400090: soccerplayer2:RightHandMiddle2
+    400092: soccerplayer2:RightHandMiddle3
+    400094: soccerplayer2:RightHandMiddle4
+    400096: soccerplayer2:RightHandPinky1
+    400098: soccerplayer2:RightHandPinky2
+    400100: soccerplayer2:RightHandPinky3
+    400102: soccerplayer2:RightHandPinky4
+    400104: soccerplayer2:RightHandRing1
+    400106: soccerplayer2:RightHandRing2
+    400108: soccerplayer2:RightHandRing3
+    400110: soccerplayer2:RightHandRing4
+    400112: soccerplayer2:RightHandThumb1
+    400114: soccerplayer2:RightHandThumb2
+    400116: soccerplayer2:RightHandThumb3
+    400118: soccerplayer2:RightHandThumb4
+    400120: soccerplayer2:RightLeg
+    400122: soccerplayer2:RightShoulder
+    400124: soccerplayer2:RightToeBase
+    400126: soccerplayer2:RightUpLeg
+    400128: soccerplayer2:Spine
+    400130: soccerplayer2:Spine1
+    400132: soccerplayer2:Spine2
+    7400000: mixamo.com
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: soccerplayer2:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:Neck1
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:Head
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer2:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: ConerKick(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:Hips
+      parentName: ConerKick(Clone)
+      position: {x: 0.13484183, y: 0.85212445, z: 0.12919742}
+      rotation: {x: 0.12062999, y: 0.2861432, z: -0.017829547, w: 0.95039606}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:Spine
+      parentName: soccerplayer2:Hips
+      position: {x: -0, y: 0.092263, z: 0.015771}
+      rotation: {x: 0.048512828, y: 0.010661443, z: -0.013356506, w: 0.99867636}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:Spine1
+      parentName: soccerplayer2:Spine
+      position: {x: -0, y: 0.16253999, z: -0.001656}
+      rotation: {x: 0.0287116, y: 0.0076461667, z: -0.00883512, w: 0.99951947}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:Spine2
+      parentName: soccerplayer2:Spine1
+      position: {x: -0, y: 0.13639599, z: -0.012922999}
+      rotation: {x: 0.028381845, y: 0.006965583, z: -0.011091689, w: 0.99951136}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:Neck
+      parentName: soccerplayer2:Spine2
+      position: {x: -0, y: 0.13877401, z: -0.043541998}
+      rotation: {x: -0.021465568, y: -0.031896506, z: -0.012771119, w: 0.99917907}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:Neck1
+      parentName: soccerplayer2:Neck
+      position: {x: -0, y: 0.0434, z: 0.009269}
+      rotation: {x: -0.021465478, y: -0.03189644, z: -0.01277115, w: 0.99917907}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:Head
+      parentName: soccerplayer2:Neck1
+      position: {x: -0, y: 0.040266, z: 0.0085849995}
+      rotation: {x: -0.021465639, y: -0.031896453, z: -0.012771064, w: 0.99917907}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:HeadTop_End
+      parentName: soccerplayer2:Head
+      position: {x: -0, y: 0.178866, z: 0.001231}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftShoulder
+      parentName: soccerplayer2:Spine2
+      position: {x: -0.061442, y: 0.10187, z: -0.037932}
+      rotation: {x: -0.009648154, y: 0.026505157, z: 0.05301019, w: 0.9981955}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftArm
+      parentName: soccerplayer2:LeftShoulder
+      position: {x: -0.123191, y: -0.01113, z: -0.017934998}
+      rotation: {x: 0.0666353, y: 0.2146634, z: 0.4611614, w: 0.8583761}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftForeArm
+      parentName: soccerplayer2:LeftArm
+      position: {x: -0.27686998, y: 0, z: 0}
+      rotation: {x: -0.0000000709942, y: 0.6210723, z: 0.00000014627098, w: 0.7837533}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftHand
+      parentName: soccerplayer2:LeftForeArm
+      position: {x: -0.278738, y: 0, z: 0}
+      rotation: {x: -0.18286727, y: 0.22656234, z: -0.30857345, w: 0.9055449}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftHandThumb1
+      parentName: soccerplayer2:LeftHand
+      position: {x: -0.023784999, y: -0.010029, z: 0.026208999}
+      rotation: {x: 0.07644555, y: 0.018271608, z: 0.11220164, w: 0.9905721}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftHandThumb2
+      parentName: soccerplayer2:LeftHandThumb1
+      position: {x: -0.033624, y: -0.010029, z: 0.028397998}
+      rotation: {x: -0.0071148816, y: 0.08503289, z: 0.022420645, w: 0.9961005}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftHandThumb3
+      parentName: soccerplayer2:LeftHandThumb2
+      position: {x: -0.045018, y: -0.013444999, z: 0.021782998}
+      rotation: {x: 0.0052829296, y: -0.05171052, z: 0.061722577, w: 0.9967389}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftHandThumb4
+      parentName: soccerplayer2:LeftHandThumb3
+      position: {x: -0.032144, y: 0, z: 0.014899}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftHandMiddle1
+      parentName: soccerplayer2:LeftHand
+      position: {x: -0.104638994, y: 0.006148, z: 0.004298}
+      rotation: {x: -0.0037027695, y: 0.034127813, z: 0.10780489, w: 0.9935792}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftHandMiddle2
+      parentName: soccerplayer2:LeftHandMiddle1
+      position: {x: -0.057921, y: 0, z: 0}
+      rotation: {x: -0.000000028699839, y: 0.0000031511318, z: 0.23690118, w: 0.9715338}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftHandMiddle3
+      parentName: soccerplayer2:LeftHandMiddle2
+      position: {x: -0.037132, y: 0, z: 0}
+      rotation: {x: -0.00000000258779, y: 0.0000010786517, z: 0.08078321, w: 0.9967317}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftHandMiddle4
+      parentName: soccerplayer2:LeftHandMiddle3
+      position: {x: -0.027579, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftHandIndex1
+      parentName: soccerplayer2:LeftHand
+      position: {x: -0.103944995, y: 0.006148, z: 0.027054999}
+      rotation: {x: 0.08462999, y: 0.1444502, z: 0.13830931, w: 0.9761365}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftHandIndex2
+      parentName: soccerplayer2:LeftHandIndex1
+      position: {x: -0.055493, y: 0, z: 0}
+      rotation: {x: -0.000000054944646, y: 0.0000026645416, z: 0.1960007, w: 0.98060375}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftHandIndex3
+      parentName: soccerplayer2:LeftHandIndex2
+      position: {x: -0.033910997, y: 0, z: 0}
+      rotation: {x: -0.00000013822105, y: 0.0000018207744, z: 0.13709503, w: 0.9905579}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftHandIndex4
+      parentName: soccerplayer2:LeftHandIndex3
+      position: {x: -0.027579, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftHandRing1
+      parentName: soccerplayer2:LeftHand
+      position: {x: -0.103252, y: 0.003211, z: -0.018755}
+      rotation: {x: 0.0035463786, y: -0.025371041, z: 0.13837187, w: 0.990049}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftHandRing2
+      parentName: soccerplayer2:LeftHandRing1
+      position: {x: -0.054452, y: 0, z: 0}
+      rotation: {x: -0.00000005150071, y: 0.0000021988772, z: 0.16218394, w: 0.98676056}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftHandRing3
+      parentName: soccerplayer2:LeftHandRing2
+      position: {x: -0.037132, y: 0, z: 0}
+      rotation: {x: 0.000000010035263, y: 0.0000028964048, z: 0.21308097, w: 0.97703457}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftHandRing4
+      parentName: soccerplayer2:LeftHandRing3
+      position: {x: -0.027579, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftHandPinky1
+      parentName: soccerplayer2:LeftHand
+      position: {x: -0.10012999, y: -0.000784, z: -0.039670996}
+      rotation: {x: -0.08226305, y: -0.15471457, z: 0.15347938, w: 0.9724918}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftHandPinky2
+      parentName: soccerplayer2:LeftHandPinky1
+      position: {x: -0.036763, y: 0, z: 0}
+      rotation: {x: 0.000000017201348, y: 0.0000018519054, z: 0.13698961, w: 0.9905725}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftHandPinky3
+      parentName: soccerplayer2:LeftHandPinky2
+      position: {x: -0.028113, y: 0, z: 0}
+      rotation: {x: -0.000000012992241, y: 0.000001765764, z: 0.13180524, w: 0.99127567}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftHandPinky4
+      parentName: soccerplayer2:LeftHandPinky3
+      position: {x: -0.019255, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightShoulder
+      parentName: soccerplayer2:Spine2
+      position: {x: 0.061402, y: 0.10187, z: -0.037932}
+      rotation: {x: 0.043805283, y: -0.16156557, z: -0.0050752554, w: 0.9858762}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightArm
+      parentName: soccerplayer2:RightShoulder
+      position: {x: 0.123231, y: -0.01113, z: -0.017934998}
+      rotation: {x: 0.01853737, y: -0.35243785, z: -0.38783115, w: 0.85148746}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightForeArm
+      parentName: soccerplayer2:RightArm
+      position: {x: 0.27686998, y: 0, z: 0}
+      rotation: {x: 0.000000025166043, y: -0.57904434, z: 0.00000005712039, w: 0.81529605}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightHand
+      parentName: soccerplayer2:RightForeArm
+      position: {x: 0.278738, y: 0, z: 0}
+      rotation: {x: -0.11264687, y: -0.14089702, z: 0.26166555, w: 0.94815075}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightHandThumb1
+      parentName: soccerplayer2:RightHand
+      position: {x: 0.025178, y: -0.009366999, z: 0.025137}
+      rotation: {x: 0.004990605, y: -0.07925764, z: -0.15722363, w: 0.9843648}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightHandThumb2
+      parentName: soccerplayer2:RightHandThumb1
+      position: {x: 0.032638, y: -0.010869999, z: 0.029669}
+      rotation: {x: 0.0007886166, y: 0.033400387, z: -0.022717103, w: 0.99918354}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightHandThumb3
+      parentName: soccerplayer2:RightHandThumb2
+      position: {x: 0.044165, y: -0.013703, z: 0.02135}
+      rotation: {x: 0.00000001801165, y: 0.01392449, z: 0.00000002758418, w: 0.9999031}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightHandThumb4
+      parentName: soccerplayer2:RightHandThumb3
+      position: {x: 0.034762, y: -0.00052, z: 0.011709}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightHandIndex1
+      parentName: soccerplayer2:RightHand
+      position: {x: 0.104665, y: 0.004896, z: 0.027119998}
+      rotation: {x: 0.010834936, y: -0.09512229, z: -0.14847778, w: 0.98427063}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightHandIndex2
+      parentName: soccerplayer2:RightHandIndex1
+      position: {x: 0.053767998, y: 0, z: 0}
+      rotation: {x: -0.00000005323571, y: 0.00000010344508, z: -0.187192, w: 0.98232335}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightHandIndex3
+      parentName: soccerplayer2:RightHandIndex2
+      position: {x: 0.033855, y: 0, z: 0}
+      rotation: {x: 0.000000044310255, y: 0.000000031404944, z: -0.085558474, w: 0.9963332}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightHandIndex4
+      parentName: soccerplayer2:RightHandIndex3
+      position: {x: 0.027730998, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightHandMiddle1
+      parentName: soccerplayer2:RightHand
+      position: {x: 0.107595995, y: 0.004896, z: 0.004278}
+      rotation: {x: 0.0003441003, y: 0.004349393, z: -0.07887374, w: 0.9968751}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightHandMiddle2
+      parentName: soccerplayer2:RightHandMiddle1
+      position: {x: 0.056167997, y: 0, z: 0}
+      rotation: {x: -0.00000004564447, y: 0.00000003082622, z: -0.23263995, w: 0.9725629}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightHandMiddle3
+      parentName: soccerplayer2:RightHandMiddle2
+      position: {x: 0.037364, y: 0, z: 0}
+      rotation: {x: 0.000000022880377, y: -0.000000010364622, z: -0.18401968, w: 0.98292255}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightHandMiddle4
+      parentName: soccerplayer2:RightHandMiddle3
+      position: {x: 0.028803, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightHandRing1
+      parentName: soccerplayer2:RightHand
+      position: {x: 0.104701996, y: 0.003879, z: -0.019363}
+      rotation: {x: 0.010255249, y: 0.065860495, z: -0.15351628, w: 0.9858955}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightHandRing2
+      parentName: soccerplayer2:RightHandRing1
+      position: {x: 0.054013, y: 0, z: 0}
+      rotation: {x: 0.00000000509491, y: -0.00000013376412, z: -0.19572188, w: 0.9806594}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightHandRing3
+      parentName: soccerplayer2:RightHandRing2
+      position: {x: 0.033915997, y: 0, z: 0}
+      rotation: {x: -0.00000014127886, y: 0.00000006826099, z: -0.17520931, w: 0.9845312}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightHandRing4
+      parentName: soccerplayer2:RightHandRing3
+      position: {x: 0.029664999, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightHandPinky1
+      parentName: soccerplayer2:RightHand
+      position: {x: 0.099715, y: -0.001191, z: -0.03954}
+      rotation: {x: -0.08434953, y: 0.14938366, z: -0.17445047, w: 0.9696065}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightHandPinky2
+      parentName: soccerplayer2:RightHandPinky1
+      position: {x: 0.036528, y: 0, z: 0}
+      rotation: {x: 0.00000002243327, y: -0.000000013742587, z: -0.16318572, w: 0.9865954}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightHandPinky3
+      parentName: soccerplayer2:RightHandPinky2
+      position: {x: 0.02782, y: 0, z: 0}
+      rotation: {x: 0.000000028565236, y: -0.000000015277019, z: -0.1269305, w: 0.9919116}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightHandPinky4
+      parentName: soccerplayer2:RightHandPinky3
+      position: {x: 0.022767, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftUpLeg
+      parentName: soccerplayer2:Hips
+      position: {x: -0.096338, y: -0.032732997, z: 0}
+      rotation: {x: -0.29180762, y: 0.008643778, z: -0.19412214, w: 0.93653095}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftLeg
+      parentName: soccerplayer2:LeftUpLeg
+      position: {x: -0, y: -0.4173, z: -0.0173}
+      rotation: {x: 0.59637964, y: 0.027598606, z: 0.029702727, w: 0.8016779}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftFoot
+      parentName: soccerplayer2:LeftLeg
+      position: {x: -0.000126, y: -0.39189997, z: -0.008477}
+      rotation: {x: -0.12739782, y: -0.023245348, z: 0.14207599, w: 0.981348}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftToeBase
+      parentName: soccerplayer2:LeftFoot
+      position: {x: 0.001833, y: -0.121930994, z: 0.082823}
+      rotation: {x: -0.04631252, y: -0.000000040240838, z: -0.000000118113164, w: 0.998927}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:LeftFootToeBase_End
+      parentName: soccerplayer2:LeftToeBase
+      position: {x: -0, y: 0, z: 0.12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightUpLeg
+      parentName: soccerplayer2:Hips
+      position: {x: 0.096338, y: -0.032732997, z: 0}
+      rotation: {x: -0.35904777, y: -0.018938748, z: 0.00032398742, w: 0.933127}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightLeg
+      parentName: soccerplayer2:RightUpLeg
+      position: {x: -0, y: -0.4173, z: -0.0173}
+      rotation: {x: 0.5058887, y: 0.06288688, z: 0.044505745, w: 0.8591514}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightFoot
+      parentName: soccerplayer2:RightLeg
+      position: {x: -0.000126, y: -0.39189997, z: -0.008477}
+      rotation: {x: -0.28149348, y: -0.06287974, z: -0.02592131, w: 0.9571498}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightToeBase
+      parentName: soccerplayer2:RightFoot
+      position: {x: 0.001833, y: -0.121930994, z: 0.082823}
+      rotation: {x: -0.04751407, y: -0.000000038724714, z: 0.000000014747595, w: 0.9988706}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soccerplayer2:RightFootToeBase_End
+      parentName: soccerplayer2:RightToeBase
+      position: {x: -0.000032, y: 0, z: 0.12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
