@@ -1,6 +1,6 @@
 # Augmented Reality soccer game 
 
-This game tried to apply Augmented reality (OpenCV) to enables player using his head to kick the ball. This project was not completed due to the size optimizing with OpenCV.
+This game tried to apply Augmented reality (OpenCV) to enables player using his head to kick the ball. This project was not completed due to the size optimizing with OpenCV. This is a project of a group with the intention to combine the strength of action game and the ability of gesture prediction in AR concept.
    
  # Technical used:
    
